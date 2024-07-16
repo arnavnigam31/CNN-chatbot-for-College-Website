@@ -50,3 +50,13 @@ This project is a chatbot implemented using a Convolutional Neural Network (CNN)
    - `units=len(data['intents']):` The number of output neurons, which equals the number of unique intent tags.
    - `activation='softmax':` The activation function for multi-class classification. It outputs a probability distribution over the intent tags.
    
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, please feel free to create a pull request or open an issue.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- GitHub: [arnavnigam31](https://github.com/arnavnigam31)
+- Email: arnav3108nigam@gmail.com
